@@ -1,3 +1,3 @@
-# Acciojob Assignment Solution Template Repo
+# Form Auto-Complete
 
-# Instructions 
+Write a program that uses Local Storage to store form data, so that users can easily auto-complete forms on subsequent visits.
